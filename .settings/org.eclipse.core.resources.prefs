@@ -1,0 +1,12 @@
+eclipse.preferences.version=1
+encoding//src/cn/com/weaver/services/webservices/WorkflowService.java=UTF-8
+encoding//src/cn/com/weaver/services/webservices/WorkflowServiceHttpBindingStub.java=UTF-8
+encoding//src/cn/com/weaver/services/webservices/WorkflowServiceLocator.java=UTF-8
+encoding//src/cn/com/weaver/services/webservices/WorkflowServicePortType.java=UTF-8
+encoding//src/weaver/workflow/webservices/WorkflowBaseInfo.java=UTF-8
+encoding//src/weaver/workflow/webservices/WorkflowDetailTableInfo.java=UTF-8
+encoding//src/weaver/workflow/webservices/WorkflowMainTableInfo.java=UTF-8
+encoding//src/weaver/workflow/webservices/WorkflowRequestInfo.java=UTF-8
+encoding//src/weaver/workflow/webservices/WorkflowRequestLog.java=UTF-8
+encoding//src/weaver/workflow/webservices/WorkflowRequestTableField.java=UTF-8
+encoding//src/weaver/workflow/webservices/WorkflowRequestTableRecord.java=UTF-8
